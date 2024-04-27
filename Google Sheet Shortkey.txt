@@ -1,0 +1,148 @@
+Data
+Clean-up suggestions - Alt + A, Y or Alt + D, Y 
+Create a filter - Alt + H, S, F or Alt + D, F 
+Data validation - Alt + A, V or Alt + D, L or Alt + D, V 
+Define named range - Alt + M, N or Alt + I, N or Alt + D, N 
+Freeze 1 column - Alt + W, F, C or Alt + V, R, L 
+Freeze 1 row - Alt + W, F, R or Alt + V, R, O 
+Freeze 2 columns - Alt + V, R, M 
+Freeze 2 rows - Alt + V, R, W 
+Freeze no columns - Alt + V, R, C 
+Freeze no rows - Alt + V, R, R
+Freeze up to current column (A) - Alt + V, R, P 
+Freeze up to current row (1) - Alt + V, R, U 
+Insert chart - Alt + F1 or Alt + N, K or Alt + I, H 
+Insert function:  AVERAGE - Alt + H, U, A or Alt + M, U, A or Alt + I, U, A 
+Insert function :  COUNT - Alt + H, U, C or Alt + M, U, C or Alt + I, U, C
+Insert function :  MAX - Alt + H, U, M or Alt + M, U, M or Alt + I, U, M 
+Insert function:  MIN - Alt + H, U, I or Alt + M, U, I or Alt + I, U, I 
+Insert function:  SUM - Alt + H, U, S or Alt + M, U, S or Alt + I, U, S 
+Insert pivot table - Alt + N, V or Alt + D, P 
+Protect sheet - Alt + H, O, P or Alt + R, P or Alt + T, P or Alt + T, T
+Remove duplicate rows - Alt + A, M or Alt + D, M
+Sort range - Alt + H, S, U or Alt + D, S
+Sort range by column A (A to Z) - Alt + H, S, S or Alt + D, R 
+Sort range by column A (Z to A) - Alt + H, S, O or Alt + D, T
+Split text to columns - Alt + A, E or Alt + D, E
+Trim whitespace - Alt + D, I
+ 
+Editing
+Clear notes - Alt + H, E, M or Alt + E, A, M
+Copy - Alt + H, C, C or Alt + E, C
+Cut - Alt + H, X or Alt + E, T
+Delete - Alt + H, D, S or Alt + E, L
+Delete column A - Alt + H, D, C 
+Delete row 1 - Alt + H, D, R or Alt + E, D
+Delete rows/columns or Open delete menu - Ctrl +  -  or Alt + H, D, D
+Delete values - Alt + H, E, C or Alt + E, A, C or Alt + E, V
+Fill down - Alt + H, F, I, D or Alt + E, I, D
+Fill right - Alt + H, F, I, R or Alt + E, I, R
+Group - Alt + A, G or Alt + D, G, G
+Insert 1 column left - Alt + H, I, C or Alt + I, C
+Insert 1 column right - Alt + I, O 
+Insert 1 row above - Alt + H, I, R or Alt + I, R
+Insert 1 row below - Alt + I, B 
+Insert cells and shift down - Alt + I, D 
+Insert checkbox - Alt + I, X
+Insert link - Alt + N, I or Alt + I, I or Alt + I, K 
+Insert new sheet - Alt + Shift + F1 or Alt + H, I, S or Alt + I, W or Alt + I, S 
+Insert rows/columns or Open insert menu - Ctrl + Shift + = or Ctrl + = or Alt + H, I, I or Alt + I, E 
+Paste - Alt + H, V, P or Alt + E, P 
+Paste all except borders - Alt + H, V, B or Alt + E, S, B 
+Paste column width only - Alt + H, V, W
+Paste format only - Alt + H, V, R 
+Paste formula only - Alt + H, V, F
+Paste transposed - Alt + H, V, T or Alt + E, S, E 
+Paste values only - Alt + H, V, V
+Redo - Alt + 3 or Alt + E, R
+Text rotation :  rotate down - Alt + H, F, Q, D or Alt + O, R, D
+Text rotation :  rotate up - Alt + H, F, Q, U
+Text rotation :  stack vertically - Alt + H, F, Q, V or Alt + O, R, V
+Text rotation :  tilt down - Alt + H, F, Q, L or Alt + O, R, W
+Text rotation :  tilt up - Alt + H, F, Q, O or Alt + O, R, P
+Undo - Alt + 2 or Alt + E, U
+Ungroup - Alt + A, U or Alt + D, G, U or Alt + D, U 
+Formatting 
+Align center - Alt + H, A, C or Alt + O, A, C 
+Align left - Alt + H, A, L or Alt + O, A, L
+Align right - Alt + H, A, R or Alt + O, A, R
+Apply all borders - Alt + H, B, A
+Apply bottom border - Alt + H, B, O
+Apply left border - Alt + H, B, L
+Apply outer border - Alt + H, B, S
+Apply right border - Alt + H, B, R
+Apply top border - Alt + H, B, P
+Bold - Ctrl + 2 or Alt + H, 1 or Alt + O, B
+Clear formatting - Alt + H, E, F or Alt + E, A, F
+Conditional formatting - Alt + H, L or Alt + O, D or Alt + O, F
+Decrease decimal places - Alt + H, 9
+Increase decimal places - Alt + H, 0
+Italic - Ctrl + 3 or Alt + H, 2 or Alt + O, I
+Merge all cells - Alt + H, M, M or Alt + O, M, A
+Merge cells horizontally - Alt + H, M, A or Alt + O, M, H
+Number format:  accounting - Alt + H, A, N or Alt + O, N, A
+Number format :  automatic - Ctrl + Shift + ` or Alt + O, N, M
+Number format:  currency - Alt + O, N, C
+Number format:  currency rounded - Alt + O, N, R
+Number format:  date - Alt + O, N, D
+Number format:  date-time - Alt + O, N, I
+Number format:  duration - Alt + O, N, U
+Number format:  financial - Alt + O, N, F
+Number format:  number - Alt + H, K or Alt + O, N, N
+Number format:  percent - Alt + H, P or Alt + O, N, P
+Number format:  plain text - Alt + O, N, X
+Number format:  scientific - Alt + O, N, S
+Number format:  time - Alt + O, N, T
+Remove borders - Ctrl + Shift + - or Alt + H, B, N
+Resize column - Alt + H, O, I or Alt + O, C, A
+Resize row - Alt + H, O, A or Alt + O, R, A
+Strikethrough - Ctrl + 5 or Alt + O, K
+Text align:  bottom - Alt + H, A, B or Alt + O, A, B
+Text align:  middle - Alt + H, A, M or Alt + O, A, M
+Text align:  top - Alt + H, A, T or Alt + O, A, T
+Underline - Ctrl + 4 or Alt + H, 3, U or Alt + O, U
+Unmerge cells - Alt + H, M, U or Alt + O, M, U
+Wrap text - Alt + H, W or Alt + O, W, W 
+File commands
+New spreadsheet - Alt + F, N or Alt + W, N
+Open - Alt + F, O
+Print - Ctrl + F2 or Alt + F, P
+Settings - Alt + F, T or Alt + F, G
+Share - Alt + F, H or Alt + T, B 
+Help
+Help Center - F1 
+Menus
+Format menu - Ctrl + 1
+ 
+Navigation
+Enter current comment - Alt + A, C, E
+Find and replace - Alt + H, F, D, R or Alt + E, E or Alt + E, F
+Go to range - F5 or Alt + E, G
+Move to next comment - Alt + A, C, N
+Move to previous comment - Alt + A, C, P 
+Review
+Insert comment - Alt + R, C or Alt + I, M
+Open comment history - Alt + A, C, O or Alt + R, A or Alt + V, C
+Spell check - F7 or Alt + R, S or Alt + T, S, S
+ 
+Screen reader support
+Verbalize column - Alt + A, S, L
+Verbalize comment - Alt + A, S, T
+Verbalize comment anchor - Alt + A, S, A
+Verbalize formatting - Alt + A, S, F
+Verbalize row - Alt + A, S, R
+ 
+Selection
+Select all - Ctrl + Shift + 8 
+View
+Collapse group - Alt + A, H or Alt + D, G, H
+Expand group - Alt + A, J or Alt + D, G, S
+Fullscreen - Ctrl + F1 or Alt + V, U
+Hide columns - Ctrl + 0 or Alt + H, O, U, C or Alt + O, C, H
+Hide rows - Ctrl + 9 or Alt + H, O, U, R or Alt + O, R, H
+Hide sheet - Alt + H, O, U, S or Alt + O, H
+Show all formulas - Alt + M, H or Alt + V, A
+Show formula bar - Ctrl + Shift + U or Alt + W, V, F or Alt + V, F
+Show gridlines - Alt + W, V, G or Alt + V, G
+Unhide columns - Alt + H, O, U, L or Alt + O, C, U
+Unhide rows - Alt + H, O, U, O or Alt + O, R, U 
